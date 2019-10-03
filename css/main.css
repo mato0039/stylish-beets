@@ -1,8 +1,50 @@
 html {
   background-color: #c9b5ab;
+  font-size: 0.8rem;
 }
 
+body {
+  font-family: "PT Serif", regular;
+  line-height: 1.5;
+}
+
+
 h1, h2 {
-  font-style: PT Sans;
-  background-color: #8f2440;
+  font-family: "PT Sans", sans-serif;
+  color: #3f1622;
+  font-size: 1.5rem
+}
+
+nav a {
+  font-family: "PT Sans", sans-serif;
+  font-weight: bold;
+  color: #8f2440;
+  font-size: 1.125rem,
+}
+
+figcaption {
+  font-style: italic;
+  text-align: center;
+  font-size: 0.8rem;
+}
+
+h2 + p {
+  font-style: italic;
+}
+
+blockquote p {
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+blockquote footer {
+  font-size: 0.8rem;
+}
+
+strong {
+  font-weight: normal;
+}
+
+main data {
+  font-weight: bold;
 }
