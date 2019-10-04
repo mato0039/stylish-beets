@@ -45,6 +45,11 @@ strong {
   font-weight: normal;
 }
 
-main data {
+.data {
+  font-weight: bold;
+  font-size: 1.125rem;
+}
+
+dl dt {
   font-weight: bold;
 }
