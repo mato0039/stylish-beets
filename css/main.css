@@ -20,7 +20,6 @@ nav a {
   font-weight: bold;
   color: #8f2440;
   font-size: 1.125rem,
-  list-style-type: none;
 }
 
 figcaption {
@@ -55,7 +54,7 @@ dl dt {
   font-weight: bold;
 }
 
-ol {
+h2 + ol {
   list-style-type: lower-greek;
 }
 
