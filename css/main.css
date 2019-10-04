@@ -8,7 +8,6 @@ body {
   line-height: 1.5;
 }
 
-
 h1, h2 {
   font-family: "PT Sans", sans-serif;
   color: #3f1622;
@@ -27,7 +26,7 @@ ol > .tag {
   list-style-type: none;
 }
 
-nav a:hover, footer a:hover {
+a:hover {
   color: #3f1622;
 }
 
