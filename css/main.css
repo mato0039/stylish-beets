@@ -22,6 +22,10 @@ nav a {
   font-size: 1.125rem,
 }
 
+nav a:hover, footer a:hover {
+  color: #3f1622;
+}
+
 figcaption {
   font-style: italic;
   text-align: center;
@@ -60,4 +64,8 @@ h2 + ol {
 
 ul {
   list-style-type: circle;
+}
+
+footer a {
+  text-decoration: none;
 }
