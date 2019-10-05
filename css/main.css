@@ -22,12 +22,13 @@ nav a {
   text-decoration: none;
 }
 
-ol > .tag {
+.tag {
   list-style-type: none;
 }
 
 a:hover {
   color: #3f1622;
+  text-decoration: none;
 }
 
 figcaption {
