@@ -1,9 +1,13 @@
+/* ----- General ------ */
+
 html {
   background-color: #c9b5ab;
   font-family: "PT Serif", regular;
   font-size: 0.8rem;
   line-height: 1.5;
 }
+
+/* ----- Masthead ----- */
 
 h1,
 h2 {
@@ -19,6 +23,8 @@ nav a {
   color: #8f2440;
   text-decoration: none;
 }
+
+/* ----- Typography ----- */
 
 .tag {
   list-style-type: none;
