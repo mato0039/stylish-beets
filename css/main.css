@@ -12,14 +12,14 @@ html {
 h1,
 h2 {
   font-family: "PT Sans", sans-serif;
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: bold;
   color: #3f1622;
 }
 
 nav a {
   font-family: "PT Sans", sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.125rem;
   font-weight: bold;
   text-decoration: none;
 }
@@ -41,7 +41,7 @@ a:hover {
 }
 
 img {
-  width: 75%;
+  width: 50%;
 }
 
 figcaption {
