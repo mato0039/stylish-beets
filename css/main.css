@@ -3,7 +3,7 @@
 html {
   background-color: #c9b5ab;
   font-family: "PT Serif", regular;
-  font-size: .8rem;
+  font-size: 1rem;
   line-height: 1.5;
 }
 
@@ -41,7 +41,7 @@ a:hover {
 }
 
 img {
-  width: 80%;
+  width: 100%;
 }
 
 figcaption {
