@@ -39,9 +39,13 @@ a:hover {
   text-decoration: none;
 }
 
+img {
+  width: 50%;
+}
+
 figcaption {
   font-style: italic;
-  text-align: center;
+  text-align: left;
   font-size: .8rem;
 }
 
